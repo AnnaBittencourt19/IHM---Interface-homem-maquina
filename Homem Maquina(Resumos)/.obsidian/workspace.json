@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "9669c5524d2edb68",
+    "type": "split",
+    "children": [
+      {
+        "id": "16995a886d5afa27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0d673bdcc7a0a2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bem-vindo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bem-vindo"
+            }
+          },
+          {
+            "id": "b22309179e056d57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudos prova 1/Iteracao.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Iteracao"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "42af6f44229eaf1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "196be0fef02a07aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4137539a87bb60dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "7424b22d7e556efc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "5fe8f5b962a58700",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "dc396c6262e01c97",
+    "type": "split",
+    "children": [
+      {
+        "id": "5694cff6b53f9c54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "476e4b609ca6f645",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bem-vindo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Bem-vindo"
+            }
+          },
+          {
+            "id": "224e02e52d7b8da0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bem-vindo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Bem-vindo"
+            }
+          },
+          {
+            "id": "c5ee6c5e5db4cf7b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "460fed82369095d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bem-vindo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Bem-vindo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Criar nova base": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "4137539a87bb60dc",
+  "lastOpenFiles": [
+    "Curso Javascript/LearnIntroductoryJavaScript by Building a Pyramid Generator.md",
+    "Aulas/IntroHTML-CSS-JS.md",
+    "Aulas/GrideResponsividade.md",
+    "Aulas/cores-tipografia-e-icones.md",
+    "Estudos prova 1/cores-tipografia-e-icones.md",
+    "Estudos prova 1/Grideresponsividade.md",
+    "Estudos prova 1/ImagenseVídeos.md",
+    "Estudos prova 2/Processo de design.md",
+    "Estudos prova 2",
+    "Estudos prova 1/Iteracao.md",
+    "Estudos prova 1/Animacao.md",
+    "Aulas/Resumo.md",
+    "Estudos prova 1/Sem título.md",
+    "Captura de Tela 2025-08-13 às 18.06.06.png",
+    "Estudos prova 1",
+    "Web Design.md",
+    "netlify hospeda site.md",
+    "Aulas/Teste.md",
+    "Captura de Tela 2025-08-15 às 19.36.07.png",
+    "Aulas",
+    "Pasted image 20250808201451.png",
+    "Bem-vindo.md",
+    "Introdução ao UI UX.md",
+    "Curso Javascript"
+  ]
+}

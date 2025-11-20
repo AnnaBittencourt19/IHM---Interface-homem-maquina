@@ -1,0 +1,5 @@
+- Identidade visual: Imprime a personalidade e o valor da marca
+- Construir um guia de estilo ou seguir um que já existe (regras de design)
+- Tem vários jeitos de declarar cores 
+- Sample color css: [[https://codepen.io/Raphael-Cardoso-Mota-Pereira/pen/yyYxLKw]]
+- 

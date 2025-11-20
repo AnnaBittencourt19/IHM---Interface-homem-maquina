@@ -1,0 +1,5 @@
+- Grid é um sistema de colunas, linhas e espaçamentos que nos ajuda a organizar os elementos (é um esqueleto do layout)
+- Alinhamento 
+- Mantém um padrão visual 
+- Responsividade: Reorganizar de forma inteligente dependendo do tamanho da tela do usuário 
+- 
