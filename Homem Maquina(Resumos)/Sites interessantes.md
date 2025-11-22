@@ -1,0 +1,28 @@
+- APIS públicas: https://www.freepublicapis.com/
+- Site cyberpunk legal: https://nightcityshards.net/
+- Tela Fallout: https://codemyui.com/fallout-pip-boy-screen-in-css-and-html/
+- Design bonitos: https://swipefile.com/
+- Fazer um brainstorm ou um resumo legal: https://excalidraw.com/
+- Ícones: https://svgl.app/
+- Moodboards: https://sesohq.com/pages/moodboards
+- Fotos legais: https://dupephotos.com/
+- Pattern: https://patterns.helloyes.dev/ / https://csscodegenerators.com/css-patterns/
+- Sites criativos para se inspirar: https://www.siteofsites.co/categories/portfolio
+- Testar cores: https://color.review/
+- Cores de logotipos: https://brandpalettes.com/
+- API para criar um usuario aleatorio: https://randomuser.me/
+- Tirar fotos bonitas do código: https://ray.so/
+- Paletas de cores: https://colorhunt.co/
+- Animações prontas: https://animate.style/
+- Botões: https://www.bestcssbuttongenerator.com/#/5
+- 30 desafios JavaScript: https://javascript30.com/
+- 30 desafios CSS: https://30dayscss.vercel.app/challengesList
+- Ilustrações 3D: https://shapefest.com/#new
+- Página 404 bonita: https://www.kapwing.com/404-illustrations
+- Ilustrações diferentes: https://absurd.design/
+- Ilustrações fofas: https://illlustrations.co/
+- Ilustrações 3D: https://kukla-kit.wannathis.one/
+- Ilustrações: https://www.manypixels.co/gallery
+- Imagens criativas: https://github.com/MariaLetta/mega-doodles-pack/tree/master/doodles/svg
+- Animações JS: https://animejs.com/documentation/getting-started
+- 
